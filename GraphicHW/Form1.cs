@@ -20,6 +20,7 @@ namespace GraphicHW
             int a=random.Next(50,150);
             int b = random.Next(50, 150);
 
+
             int R = random.Next(0, 255);
             int G = random.Next(0, 255);
             int B = random.Next(0, 255);
